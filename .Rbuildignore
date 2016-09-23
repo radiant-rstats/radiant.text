@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^inst/rstudio$
+^build$
+^\.travis\.yml$
+cran-comments.md
